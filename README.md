@@ -1,16 +1,13 @@
-## Hi there 👋
+Greetings
+I'm Ethan, full stack developer and game designer
 
-<!--
-**EthanWen11/EthanWen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 10+ years experience running and designing multiplayer roleplaying content
+- Original card game designer
+- Experience making games in Unity and Java
+- Prior employment gathering client requirements and producing functional automation platforms
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Other notable technologies:*
+- Maya
+- Amazon Web Services
+- SQL
+- Adobe Suite
